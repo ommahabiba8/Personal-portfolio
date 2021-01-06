@@ -1,0 +1,30 @@
+body{
+    margin: 10%;
+    font-family:'poppins' sans-serif;
+}
+h1{
+    font-size: 70px;
+}
+.head-highlight{
+    color: indigo;
+}
+.name-highlight{
+    color: orangered;
+}
+  p{ 
+      color: black;
+  }
+ 
+ .half-width {
+    width: 45%;
+    float: left;
+    margin-left: 2%;
+    padding: left 2%;
+}
+  .half-width img{
+ width: 450px;
+ }
+section{
+    height: 30px;
+    padding-bottom: 40%;
+}
